@@ -1,0 +1,55 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: salmon;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: crimson;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    font-size: 300%;
+    color: aliceblue;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: firebrick;
+    font-size: 200%;
+}
+
+.box{
+    background-color: tomato;
+    width: 600px;
+    border: solid grey;
+    height: auto;
+    margin: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+
+.boxVoto{
+    float: right;
+    
+}
+
+#boxOptions{
+    background-color:rgb(180, 158, 134);
+    border: solid black;
+    border-radius: 3px;
+    align-items: center;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    width: 295px;
+}
+
+.bottone{
+    font-size: 15px;
+}
